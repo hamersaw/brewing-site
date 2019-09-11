@@ -1,0 +1,7 @@
+baseURL = "http://descentbrewing.com/"
+languageCode = "en-us"
+title = "Descent Brewing"
+
+theme = "descent"
+[params]
+    image = "static/IMG_20180627_181331.jpg"
