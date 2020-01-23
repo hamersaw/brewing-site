@@ -14,12 +14,14 @@ Brewed as a traditional Irish Red, we focus on popular European malts and hops. 
 
 Pairs well with: Long handled mustaches, potato famines
 
-## Jazz Panda - Black Ale
-This brew embodies the chocolate and roasted flavors common in dark beers. However, it's crisp and light bodied, contradicting the "heavy" characteristic of stouts / porters. We prefer to describe it as "dark ... but light and smooth", not unlike a panda belting out sweet swing and blues notes.
+## Back Country - Black Ale
+This brew embodies the chocolate and roasted flavors common in dark beers. However, it's crisp and light bodied, contradicting the "heavy" characteristic of stouts / porters. TODO
 
 Pairs well with: That awkward teenage phase, a nice pair of slacks
 
-## Nightshift - Coffee Pale Ale
+## NCNS (No Cream, No Sugar, Just Beer!) - Coffee Pale Ale
+
+TODO - description
 
 Pairs well with: Untamed optimism, large framed reading glasses
 
@@ -31,5 +33,7 @@ A play on the Samurai code -- Bushido, this stalwart IPA is unwavering in it's d
 Pairs well with: A well-timed calvalry charge, people who rub dirt on their wounds
 
 ## Hamersaw - Double IPA
+
+TODO - description
 
 Pairs well with: a face-shredding guitar solo
